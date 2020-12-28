@@ -2,6 +2,7 @@ baseURL = "https://joelvaneenwyk.github.io/"
 languageCode = "en-us"
 title = "Joel Van Eenwyk"
 theme = "researcher"
+publishDir = "docs"
 disableKinds = ["taxonomy", "term"]
 enableEmoji = true
 math = true          # enable KaTeX (https://katex.org/) globally
