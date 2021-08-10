@@ -1,0 +1,13 @@
+{
+  "name": "joelvaneenwyk.github.io",
+  "version": "0.2",
+  "description": "Homepage for Joel Van Eenwyk",
+  "main": "docs/index.html",
+  "repository": "git@github.com:joelvaneenwyk/joelvaneenwyk.github.io.git",
+  "author": "Joel Van Eenwyk <joel.vaneenwyk@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "htmlhint": "^0.15.1"
+  },
+  "packageManager": "yarn@3.0.1-rc.2"
+}

@@ -1,10 +1,10 @@
 +++
-title = "About"
+title = "Joel Van Eenwyk"
 +++
 
 ## Introduction
 
-⚠ This is all a work in progress.
+⚠ 🚧 This is a work in progress.
 
 {{< figure class="avatar" src="/avatar.jpg" >}}
 

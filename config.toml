@@ -5,8 +5,12 @@ theme = "researcher"
 publishDir = "docs"
 disableKinds = ["taxonomy", "term"]
 enableEmoji = true
-math = true          # enable KaTeX (https://katex.org/) globally
-googleAnalytics = ""  # add your tracking id
+
+# Enable KaTeX (https://katex.org/) globally
+math = true
+
+# Add your tracking id
+googleAnalytics = ""
 
 [params]
   author = "Joel Van Eenwyk"
@@ -22,7 +26,7 @@ googleAnalytics = ""  # add your tracking id
 [menu]
   [[menu.main]]
     name = "About"
-    url = "/about"
+    url = "/"
     weight = 1
   [[menu.main]]
     name = "Resume"
